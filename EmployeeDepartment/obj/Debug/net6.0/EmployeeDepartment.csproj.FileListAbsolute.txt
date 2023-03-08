@@ -1,0 +1,15 @@
+C:\Users\Nijat\source\repos\EmployeeDepartment\EmployeeDepartment\bin\Debug\net6.0\EmployeeDepartment.exe
+C:\Users\Nijat\source\repos\EmployeeDepartment\EmployeeDepartment\bin\Debug\net6.0\EmployeeDepartment.deps.json
+C:\Users\Nijat\source\repos\EmployeeDepartment\EmployeeDepartment\bin\Debug\net6.0\EmployeeDepartment.runtimeconfig.json
+C:\Users\Nijat\source\repos\EmployeeDepartment\EmployeeDepartment\bin\Debug\net6.0\EmployeeDepartment.dll
+C:\Users\Nijat\source\repos\EmployeeDepartment\EmployeeDepartment\bin\Debug\net6.0\EmployeeDepartment.pdb
+C:\Users\Nijat\source\repos\EmployeeDepartment\EmployeeDepartment\obj\Debug\net6.0\EmployeeDepartment.csproj.AssemblyReference.cache
+C:\Users\Nijat\source\repos\EmployeeDepartment\EmployeeDepartment\obj\Debug\net6.0\EmployeeDepartment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nijat\source\repos\EmployeeDepartment\EmployeeDepartment\obj\Debug\net6.0\EmployeeDepartment.AssemblyInfoInputs.cache
+C:\Users\Nijat\source\repos\EmployeeDepartment\EmployeeDepartment\obj\Debug\net6.0\EmployeeDepartment.AssemblyInfo.cs
+C:\Users\Nijat\source\repos\EmployeeDepartment\EmployeeDepartment\obj\Debug\net6.0\EmployeeDepartment.csproj.CoreCompileInputs.cache
+C:\Users\Nijat\source\repos\EmployeeDepartment\EmployeeDepartment\obj\Debug\net6.0\EmployeeDepartment.dll
+C:\Users\Nijat\source\repos\EmployeeDepartment\EmployeeDepartment\obj\Debug\net6.0\refint\EmployeeDepartment.dll
+C:\Users\Nijat\source\repos\EmployeeDepartment\EmployeeDepartment\obj\Debug\net6.0\EmployeeDepartment.pdb
+C:\Users\Nijat\source\repos\EmployeeDepartment\EmployeeDepartment\obj\Debug\net6.0\EmployeeDepartment.genruntimeconfig.cache
+C:\Users\Nijat\source\repos\EmployeeDepartment\EmployeeDepartment\obj\Debug\net6.0\ref\EmployeeDepartment.dll
